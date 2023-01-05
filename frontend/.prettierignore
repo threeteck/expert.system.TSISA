@@ -1,0 +1,5 @@
+# Do not format styled component files
+Style.tsx
+.vscode
+package.json
+package-lock.json
